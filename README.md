@@ -87,7 +87,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-![Alt text](../img/ss1.png)
+![Alt text](img/ss1.png)
 
 
 # RESULT:
