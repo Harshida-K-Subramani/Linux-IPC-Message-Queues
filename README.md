@@ -88,7 +88,9 @@ Execute the C Program for the desired output.
 ## OUTPUT
 
 ![Alt text](img/op1.png)
+
 ![Alt text](img/op2.png)
+
 ![Alt text](img/op3.png)
 
 
